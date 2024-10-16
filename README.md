@@ -1,4 +1,4 @@
-# Algorithms
+# algorithms
 This is a github repository for me to upload all of my random standalone projects that I feel worthy of showcasing!
 
 # List of algorithms in this repository
